@@ -1,0 +1,63 @@
+@charset 'UTF-8';
+
+
+body{
+	background-color: #fff;
+	font: sans-serif;
+	margin: 4em 0;
+	display: table-row-group;
+	vertical-align: middle;
+	border-color: inherit;
+}
+
+/*content*/
+
+#container{
+	width: 100%;
+	margin: 10 px auto;
+}
+
+/*Intro*/
+.intro{
+	text-align: center;
+	vertical-align: inherit;
+	
+}
+.intro p{
+		display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+
+
+}
+.intro h2{
+	text-align: right;
+}
+
+/*blocks*/
+.block{
+
+}
+
+/*footer*/
+#footer{
+	text-align:center;
+
+}
+
+#left{
+display: inline;
+float:;
+margin-left:
+}
+
+#right{
+display: inline;
+float:;
+margin-right:
+}
+
+
+
